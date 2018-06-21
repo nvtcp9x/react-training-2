@@ -1,1 +1,1 @@
-# react-training-2
+# react-training
